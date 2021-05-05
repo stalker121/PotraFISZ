@@ -1,16 +1,16 @@
 # PotraFISZ - zadania
 
 # Pytania:
-1)Co jest potrzebne do poprawnego działania bazy danych w android studio?
+1) Co jest potrzebne do poprawnego działania bazy danych w android studio?
 
-▪ 2)Jaka czynność powoduje wywołanie metody onPause()?
+2) Jaka czynność powoduje wywołanie metody onPause()?
 
-▪ 3)Korzystając ze screena klasy Dictionary, napisz dwa wyrażenia w
+3) Korzystając ze screena klasy Dictionary, napisz dwa wyrażenia w
 języku SQL, które:
 
-▪ a) zwrócą znaczenia słówek, których kategoria to "Praca", a język to "Rosyjski"
+  ▪ a) zwrócą znaczenia słówek, których kategoria to "Praca", a język to "Rosyjski"
 
-▪ b) zwrócą słówka, których znaczenie to "Odpoczywać", kategoria "Dom", a język "Niemiecki"
+  ▪ b) zwrócą słówka, których znaczenie to "Odpoczywać", kategoria "Dom", a język "Niemiecki"
   
 # Zadania:
 4) W pliku Spinner.java znajduje się funkcja, która w zależności od wybranej pozycji w spinnerze zapisuje inną kategorię dla słówka w bazie danych. Zmienna category wskazuje na spinner, zmienna newCategory na TextView. Popraw wyrażenie if, aby została zachowana zamierzona funkcjonalność. Możesz użyć w tym celu aplikacji PotraFisz, aby sprawdzić jak zachowuje się w zależności od spinnera.
